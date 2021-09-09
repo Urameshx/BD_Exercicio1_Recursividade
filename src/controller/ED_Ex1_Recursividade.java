@@ -1,6 +1,6 @@
 package controller;
 
-public class ED_Ex1_Recursividade {
+public class ExdoisRecursividade {
 
 	public ED_Ex1_Recursividade()  {
 		super();
