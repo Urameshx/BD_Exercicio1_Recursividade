@@ -1,8 +1,8 @@
 package controller;
 
-public class ExdoisRecursividade {
+public class ExumRecursividade {
 
-	public ExdoisRecursividade()  {
+	public ExumRecursividade()  {
 		super();
 	}
 	
