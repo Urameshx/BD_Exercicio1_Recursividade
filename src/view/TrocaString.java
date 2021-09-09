@@ -1,12 +1,12 @@
 package view;
 import javax.swing.JOptionPane;
 
-import controller.ED_Ex1_Recursividade;
+import controller.ExumRecursividade;
 
 public class TrocaString{
 
 	public static void main(String[] args) {
-		ED_Ex1_Recursividade word = new ED_Ex1_Recursividade();
+		ExumRecursividade word = new ExumRecursividade();
 		String string = JOptionPane.showInputDialog("Digite uma palavra");
 		
 		String palavra_invertida = word.troca(string, string.length());
