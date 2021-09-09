@@ -2,7 +2,7 @@ package controller;
 
 public class ExdoisRecursividade {
 
-	public ED_Ex1_Recursividade()  {
+	public ExdoisRecursividade()  {
 		super();
 	}
 	
